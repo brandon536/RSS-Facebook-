@@ -1,0 +1,8 @@
+{
+  "name": "SocialHub - AI Content Manager",
+  "description": "A high-performance social media and content management dashboard with AI-powered editing and cross-platform scheduling capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
